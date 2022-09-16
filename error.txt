@@ -1,0 +1,8 @@
+Executing script: /home/anurag/Coding/python/dictionaries.py
+Script arguments: 
+Output:
+Traceback (most recent call last):
+  File "/home/anurag/Coding/python/dictionaries.py", line 2, in <module>
+    name: "Miles Morales",
+NameError: name 'name' is not defined
+

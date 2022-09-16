@@ -1,0 +1,10 @@
+Executing script: /home/anurag/Coding/python/list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+1. /home/anurag/Coding/python/list_iteration.py
+2. Duke
+3. Ruby
+4. Dottie
+5. Snake
+6. Joe
+
